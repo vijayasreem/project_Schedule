@@ -1,0 +1,12 @@
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\bin\Debug\net7.0\projectSchedule.DTO.deps.json
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\bin\Debug\net7.0\projectSchedule.DTO.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\bin\Debug\net7.0\projectSchedule.DTO.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.csproj.AssemblyReference.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.AssemblyInfoInputs.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.AssemblyInfo.cs
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.csproj.CoreCompileInputs.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\refint\projectSchedule.DTO.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\ref\projectSchedule.DTO.dll

@@ -1,0 +1,15 @@
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\bin\Debug\net7.0\projectSchedule.DataAccess.deps.json
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\bin\Debug\net7.0\projectSchedule.DataAccess.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\bin\Debug\net7.0\projectSchedule.DataAccess.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\bin\Debug\net7.0\projectSchedule.DTO.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\bin\Debug\net7.0\projectSchedule.DTO.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.csproj.AssemblyReference.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.AssemblyInfoInputs.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.AssemblyInfo.cs
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.csproj.CoreCompileInputs.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.csproj.CopyComplete
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\refint\projectSchedule.DataAccess.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\ref\projectSchedule.DataAccess.dll

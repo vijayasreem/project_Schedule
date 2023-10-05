@@ -1,0 +1,17 @@
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\bin\Debug\net7.0\projectSchedule.Service.deps.json
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\bin\Debug\net7.0\projectSchedule.Service.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\bin\Debug\net7.0\projectSchedule.Service.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\bin\Debug\net7.0\projectSchedule.DataAccess.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\bin\Debug\net7.0\projectSchedule.DTO.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\bin\Debug\net7.0\projectSchedule.DTO.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\bin\Debug\net7.0\projectSchedule.DataAccess.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\projectSchedule.Service.csproj.AssemblyReference.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\projectSchedule.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\projectSchedule.Service.AssemblyInfoInputs.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\projectSchedule.Service.AssemblyInfo.cs
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\projectSchedule.Service.csproj.CoreCompileInputs.cache
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\projectSchedule.Service.csproj.CopyComplete
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\projectSchedule.Service.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\refint\projectSchedule.Service.dll
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\projectSchedule.Service.pdb
+D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.Service\obj\Debug\net7.0\ref\projectSchedule.Service.dll
