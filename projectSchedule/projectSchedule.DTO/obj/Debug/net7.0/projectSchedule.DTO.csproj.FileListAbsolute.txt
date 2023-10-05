@@ -17,3 +17,10 @@ E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\De
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.dll
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\refint\projectSchedule.DTO.dll
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.AssemblyInfoInputs.cache
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.AssemblyInfo.cs
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.csproj.CoreCompileInputs.cache
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\refint\projectSchedule.DTO.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.DTO\obj\Debug\net7.0\projectSchedule.DTO.pdb

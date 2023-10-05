@@ -7,13 +7,13 @@ namespace projectSchedule.Service
 {
     public interface IEmailRequestRepository
     {
-        Task<List<EmailRequestModel>> GetAllAsync();
+        Task<int> CreateAsync(EmailRequestModel model);
         Task<EmailRequestModel> GetByIdAsync(int id);
-        Task<int> CreateAsync(EmailRequestModel emailRequest);
-        Task UpdateAsync(EmailRequestModel emailRequest);
+        Task<List<EmailRequestModel>> GetAllAsync();
+        Task UpdateAsync(EmailRequestModel model);
         Task DeleteAsync(int id);
-        Task SendEmailAsync(string filePath, string recipientEmail);
-        Task SendFileToFtpAsync(string filePath, string ftpUrl, string username, string password);
-        Task SendFileToSharepointAsync(string filePath, string sharepointUrl, string username, string password);
+        Task SendEmailWithAttachmentAsync(EmailRequestModel model, string filePath);
+        Task SendFileToFtpAsync(EmailRequestModel model, string filePath);
+        Task SendFileToSharepointAsync(EmailRequestModel model, string filePath);
     }
 }

@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using projectSchedule.DTO;
 using projectSchedule.Service;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace projectSchedule.API
@@ -11,53 +10,32 @@ namespace projectSchedule.API
     [Route("api/[controller]")]
     public class EmailController : ControllerBase
     {
-        private readonly IEmailRequestRepository _emailRequestRepository;
+        private readonly IEmailService _emailService;
 
-        public EmailController(IEmailRequestRepository emailRequestRepository)
+        public EmailController(IEmailService emailService)
         {
-            _emailRequestRepository = emailRequestRepository;
+            _emailService = emailService;
         }
 
-        [HttpPost("SendEmail")]
-        public async Task<IActionResult> SendEmail(int id, string emailSubject, string emailBody, string attachmentPath)
+        [HttpPost("smtp")]
+        public async Task<IActionResult> SendEmailWithAttachment([FromForm] string attachmentType)
         {
-            try
-            {
-                await _emailRequestRepository.SendEmailAsync(id, emailSubject, emailBody, attachmentPath);
-                return Ok();
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, ex.Message);
-            }
+            await _emailService.SendEmailWithAttachment(attachmentType);
+            return Ok();
         }
 
-        [HttpPost("SendFileToFtp")]
-        public async Task<IActionResult> SendFileToFtp(int id, string filePath, string ftpServerUrl, string username, string password)
+        [HttpPost("ftp")]
+        public async Task<IActionResult> SendFileToFTP([FromForm] string attachmentType)
         {
-            try
-            {
-                await _emailRequestRepository.SendFileToFtpAsync(id, filePath, ftpServerUrl, username, password);
-                return Ok();
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, ex.Message);
-            }
+            await _emailService.SendFileToFTP(attachmentType);
+            return Ok();
         }
 
-        [HttpPost("SendFileToSharepoint")]
-        public async Task<IActionResult> SendFileToSharepoint(int id, string filePath, string sharepointUrl, string username, string password)
+        [HttpPost("sharepoint")]
+        public async Task<IActionResult> SendFileToSharepoint([FromForm] string attachmentType)
         {
-            try
-            {
-                await _emailRequestRepository.SendFileToSharepointAsync(id, filePath, sharepointUrl, username, password);
-                return Ok();
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, ex.Message);
-            }
+            await _emailService.SendFileToSharepoint(attachmentType);
+            return Ok();
         }
     }
 }
