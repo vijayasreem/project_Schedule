@@ -13,3 +13,6 @@ D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.
 D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\refint\projectSchedule.DataAccess.dll
 D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.pdb
 D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\ref\projectSchedule.DataAccess.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\refint\projectSchedule.DataAccess.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.DataAccess\obj\Debug\net7.0\projectSchedule.DataAccess.pdb

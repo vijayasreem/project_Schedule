@@ -6,80 +6,53 @@ using projectSchedule.DTO;
 
 namespace projectSchedule.Service
 {
-    public class EmailRequestService : IEmailRequestRepository
+    public class EmailRequestService : IEmailRequestService
     {
-        private readonly IDataAccess _dataAccess;
+        private readonly IEmailRequestRepository _repository;
 
-        public EmailRequestService(IDataAccess dataAccess)
+        public EmailRequestService(IEmailRequestRepository repository)
         {
-            _dataAccess = dataAccess;
-        }
-
-        public async Task<int> CreateAsync(EmailRequestModel emailRequest)
-        {
-            // Implementation to create email request in the database
-            int id = await _dataAccess.CreateEmailRequestAsync(emailRequest);
-            
-            return id;
-        }
-
-        public async Task<EmailRequestModel> GetByIdAsync(int id)
-        {
-            // Implementation to get email request by id from the database
-            EmailRequestModel emailRequest = await _dataAccess.GetEmailRequestByIdAsync(id);
-            
-            return emailRequest;
+            _repository = repository;
         }
 
         public async Task<List<EmailRequestModel>> GetAllAsync()
         {
-            // Implementation to get all email requests from the database
-            List<EmailRequestModel> emailRequests = await _dataAccess.GetAllEmailRequestsAsync();
-            
-            return emailRequests;
+            return await _repository.GetAllAsync();
         }
 
-        public async Task<int> UpdateAsync(EmailRequestModel emailRequest)
+        public async Task<EmailRequestModel> GetByIdAsync(int id)
         {
-            // Implementation to update email request in the database
-            int updatedRows = await _dataAccess.UpdateEmailRequestAsync(emailRequest);
-            
-            return updatedRows;
+            return await _repository.GetByIdAsync(id);
         }
 
-        public async Task<int> DeleteAsync(int id)
+        public async Task<int> CreateAsync(EmailRequestModel emailRequest)
         {
-            // Implementation to delete email request from the database
-            int deletedRows = await _dataAccess.DeleteEmailRequestAsync(id);
-            
-            return deletedRows;
+            return await _repository.CreateAsync(emailRequest);
         }
 
-        public async Task SendEmailAsync(int id, string emailSubject, string emailBody, string attachmentPath)
+        public async Task UpdateAsync(EmailRequestModel emailRequest)
         {
-            // Implementation to send email with attachment using SMTP
-            EmailRequestModel emailRequest = await _dataAccess.GetEmailRequestByIdAsync(id);
-            
-            // Send email using SMTP
-            // Implementation code here
+            await _repository.UpdateAsync(emailRequest);
         }
 
-        public async Task SendFileToFtpAsync(int id, string filePath, string ftpServerUrl, string username, string password)
+        public async Task DeleteAsync(int id)
         {
-            // Implementation to send file to FTP server
-            EmailRequestModel emailRequest = await _dataAccess.GetEmailRequestByIdAsync(id);
-            
-            // Send file to FTP server
-            // Implementation code here
+            await _repository.DeleteAsync(id);
         }
 
-        public async Task SendFileToSharepointAsync(int id, string filePath, string sharepointUrl, string username, string password)
+        public async Task SendEmailAsync(string filePath, string recipientEmail)
         {
-            // Implementation to send file to Sharepoint
-            EmailRequestModel emailRequest = await _dataAccess.GetEmailRequestByIdAsync(id);
-            
-            // Send file to Sharepoint
-            // Implementation code here
+            // Code to send email using SMTP
+        }
+
+        public async Task SendFileToFtpAsync(string filePath, string ftpUrl, string username, string password)
+        {
+            // Code to send file to FTP
+        }
+
+        public async Task SendFileToSharepointAsync(string filePath, string sharepointUrl, string username, string password)
+        {
+            // Code to send file to SharePoint
         }
     }
 }

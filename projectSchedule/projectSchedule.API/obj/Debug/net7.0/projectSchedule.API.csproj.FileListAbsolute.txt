@@ -47,3 +47,6 @@ D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.
 D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
 D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Amar\20230929_Debug\Apps\1\1698\202310053259\projectSchedule\projectSchedule.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.API\obj\Debug\net7.0\projectSchedule.API.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.API\obj\Debug\net7.0\refint\projectSchedule.API.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1698\202310052808\projectSchedule\projectSchedule.API\obj\Debug\net7.0\projectSchedule.API.pdb
