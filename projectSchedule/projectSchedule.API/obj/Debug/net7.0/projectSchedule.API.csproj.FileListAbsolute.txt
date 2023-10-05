@@ -53,3 +53,6 @@ E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\De
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.API\obj\Debug\net7.0\projectSchedule.API.dll
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.API\obj\Debug\net7.0\refint\projectSchedule.API.dll
 E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1703\202310051927\projectSchedule\projectSchedule.API\obj\Debug\net7.0\projectSchedule.API.pdb
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1707\202310050158\projectSchedule\projectSchedule.API\obj\Debug\net7.0\projectSchedule.API.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1707\202310050158\projectSchedule\projectSchedule.API\obj\Debug\net7.0\refint\projectSchedule.API.dll
+E:\Projects\Sacral\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\1707\202310050158\projectSchedule\projectSchedule.API\obj\Debug\net7.0\projectSchedule.API.pdb

@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1703\\202310051927\\projectSchedule\\projectSchedule.DataAccess\\projectSchedule.DataAccess.csproj",
+      "projectUniqueName": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1707\\202310050158\\projectSchedule\\projectSchedule.DataAccess\\projectSchedule.DataAccess.csproj",
       "projectName": "projectSchedule.DataAccess",
-      "projectPath": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1703\\202310051927\\projectSchedule\\projectSchedule.DataAccess\\projectSchedule.DataAccess.csproj",
+      "projectPath": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1707\\202310050158\\projectSchedule\\projectSchedule.DataAccess\\projectSchedule.DataAccess.csproj",
       "packagesPath": "C:\\Users\\inoc\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1703\\202310051927\\projectSchedule\\projectSchedule.DataAccess\\obj\\",
+      "outputPath": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1707\\202310050158\\projectSchedule\\projectSchedule.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\inoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -512,8 +512,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1703\\202310051927\\projectSchedule\\projectSchedule.DTO\\projectSchedule.DTO.csproj": {
-              "projectPath": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1703\\202310051927\\projectSchedule\\projectSchedule.DTO\\projectSchedule.DTO.csproj"
+            "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1707\\202310050158\\projectSchedule\\projectSchedule.DTO\\projectSchedule.DTO.csproj": {
+              "projectPath": "E:\\Projects\\Sacral\\dotnet_service\\Application.API\\SacralAI.Code.Scheduler\\bin\\Debug\\Apps\\1\\1707\\202310050158\\projectSchedule\\projectSchedule.DTO\\projectSchedule.DTO.csproj"
             }
           }
         }
